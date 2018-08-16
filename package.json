@@ -12,6 +12,8 @@
   "dependencies": {
     "class-transformer": "^0.1.9",
     "class-validator": "^0.9.1",
+    "lodash": "^4.17.10",
+    "lodash-decorators": "^6.0.0",
     "reflect-metadata": "^0.1.12",
     "register-service-worker": "^1.0.0",
     "vue": "^2.5.17",
